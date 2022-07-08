@@ -1,0 +1,19 @@
+.page-content-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    width: 95%;
+}
+
+.image-logo {
+    display: grid;
+    justify-items: center;
+}
+
+.image-logo img {
+    width: 3%;
+    margin-top: 125px;
+    margin-bottom: 75px;
+}
