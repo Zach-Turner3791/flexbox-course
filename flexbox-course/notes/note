@@ -1,0 +1,3 @@
+npm install gulp gulp-cli browser-sync
+
+npm install -g gulp-cli
